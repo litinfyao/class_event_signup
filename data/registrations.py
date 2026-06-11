@@ -1,4 +1,4 @@
-registrations = [
+REGISTRATIONS = [
     {
         "name": "组员D",
         "group": "D组",
