@@ -1,3 +1,3 @@
-EVENT_NAME = "班级活动报名与统计网页"
-EVENT_DESCRIPTION = "用 Flask 做一个可以填写表单、提交报名、查看统计结果的动态网页。"
-EVENT_NOTICE = "本项目由 5 人小组通过 GitHub Issue、Fork、Pull Request 和 Review 协作完成。"
+EVENT_NAME = "第3组校园活动报名系统"
+EVENT_DESCRIPTION = "基于 Flask 的校园活动在线报名平台，支持表单提交、实时统计与数据可视化，由5人小组协作开发。"
+EVENT_NOTICE = "第15周课堂协作项目 — 组员A（黄圣杰）负责活动基本信息配置。"
