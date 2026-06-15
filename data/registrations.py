@@ -1,14 +1,14 @@
 REGISTRATIONS = [
     {
-        "name": "示例同学 A",
-        "group": "第 1 组",
-        "activity": "Python 网页开发体验",
-        "reason": "想知道网页表单提交后，Python 后端怎样处理数据。",
+        "name": "组员D",
+        "group": "D组",
+        "activity": "技术开发",
+        "reason": "负责数据维护与统计功能"
     },
     {
-        "name": "示例同学 B",
-        "group": "第 2 组",
-        "activity": "AI 工具使用分享",
-        "reason": "想学习如何把 AI 工具用在课程项目中。",
-    },
+        "name": "组员D2",
+        "group": "D组",
+        "activity": "文档整理",
+        "reason": "负责项目进度更新"
+    }
 ]
